@@ -2,7 +2,8 @@
 # If you find this then escalate this to the appropriate team
 # this contains wellmanage.com
 # Username: mydsuser@wellmanage.com
-# Password: jsdkjf89ujfdl
+# Password: jsdkjf89ujfdlxx
+
 try:
     from setuptools import setup
 except ImportError:
